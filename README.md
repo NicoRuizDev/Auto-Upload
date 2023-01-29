@@ -80,7 +80,7 @@ This addon is a convenient and efficient solution for sharing screenshots, makin
 
 ### Built With
 
-* [NodeJs v14](https://nodejs.org)
+* [Python 3.7.9](https://www.python.org)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -136,7 +136,7 @@ Project Link: [https://github.com/NicoRuizDev/Auto-Upload](https://github.com/Ni
 ## Acknowledgments
 
 * [Choose an Open Source License](https://choosealicense.com)
-* [NodeJs v14](https://nodejs.org)
+* [Python 3.7.9](https://www.python.org)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
