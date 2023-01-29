@@ -89,13 +89,28 @@ This addon is a convenient and efficient solution for sharing screenshots, makin
 <!-- DOCUMENTATION -->
 ## Documentation
 
-NicoRuizDev/DiscordCDN Auto-Upload Addon Installation Guide
-This guide will help you install the NicoRuizDev/DiscordCDN Auto-Upload Addon on your machine. The following steps assume that you have already installed Python and pip.
+Auto-Upload Addon Installation Guide
+This guide will help you install the Auto-Upload Addon on your machine. The following steps assume that you have already installed Python and pip.
 
 Step 1: Install the Required Libraries
 To use the addon, you must first install the required libraries. You can do this by running the following command in your terminal:
-```pip install pyautogui keyboard requests pyperclip```
+```sh
+pip install pyautogui keyboard requests pyperclip
+```
+Step 2: Clone or Download the Repository
+Next, you need to obtain a copy of the addon code. You can either clone the repository using Git or download a zip file of the code from the GitHub repository.
+Step 3: Enter your APP Link in the url variable on `main.py`.
+Step 4: Run the Code
+Once you have a copy of the code, navigate to the directory in your terminal and run the following command: 
+```sh
+python filename.py
+```
+Step 5: Use the Addon
+You can now use the addon by pressing "ctrl + prtscn" on your keyboard. A screenshot of your screen will be taken and sent to the DiscordCDN API. The resulting file link, file size, and file name will be printed to the console and the file link will also be copied to your clipboard for easy sharing.
 
+And that's it! You should now have the Auto-Upload Addon up and running on your machine. Happy screenshotting!
+
+Warning: You must have DiscordCDN installed on your server, to setup click [here](https://github.com/NicoRuizDev/DiscordCDN)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
