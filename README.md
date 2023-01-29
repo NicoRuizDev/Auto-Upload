@@ -89,7 +89,12 @@ This addon is a convenient and efficient solution for sharing screenshots, makin
 <!-- DOCUMENTATION -->
 ## Documentation
 
-Documentation of cdn is hosted on our documentation page: [https://docs.nicoruiz.dev/](https://docs.nicoruiz.dev/)
+NicoRuizDev/DiscordCDN Auto-Upload Addon Installation Guide
+This guide will help you install the NicoRuizDev/DiscordCDN Auto-Upload Addon on your machine. The following steps assume that you have already installed Python and pip.
+
+Step 1: Install the Required Libraries
+To use the addon, you must first install the required libraries. You can do this by running the following command in your terminal:
+```pip install pyautogui keyboard requests pyperclip```
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
