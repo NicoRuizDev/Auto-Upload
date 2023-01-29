@@ -71,7 +71,7 @@ This addon is a convenient and efficient solution for sharing screenshots, makin
 
 
 <div align="center">
-<img src="https://i.imgur.com/Kcxquj9.png" alt="Demo" width="880" height="532">
+<img src="https://raw.githubusercontent.com/NicoRuizDev/DiscordCDN/main/assets/home.gif" alt="Demo" width="880" height="532">
 </div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
