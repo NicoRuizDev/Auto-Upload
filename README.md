@@ -28,12 +28,12 @@
   <h3 align="center">Auto-Upload</h3>
 
   <p align="center">
-    A CDN which can be used to display embed images on Discord!
+      An auto upload addon for NicoRuizDev/DiscordCDN!
     <br />
-    <a href="https://docs.nicoruiz.dev/"><strong>Explore the docs »</strong></a>
+    <a href="https://discord.gg/JRVPjPe3d8"><strong>Join Discord »</strong></a>
     <br />
     <br />
-    <a href="https://cdn.nicoruiz.dev">View Demo</a>
+    <a href="https://discord.gg/JRVPjPe3d8">View Demo</a>
     ·
     <a href="https://github.com/NicoRuizDev/Auto-Upload/issues">Report Bug</a>
     ·
@@ -61,7 +61,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is maded to make your work easier on Discord. It can easily share files with professional cdn images. This is free to use for private purposes might get copyright issues if you removed the credits. Everything is designed using Material KIT (Thanks for making such a resource, saved alot of time). Make sure to star the directory if you liked our this type of project. Thanks, below is a sneaky peak of the website
+This addon allows you to quickly and easily upload screenshots to the DiscordCDN service by pressing a keyboard shortcut.
+
+Once installed, pressing "Ctrl + PrtScn" will take a screenshot of your screen and copy the link in your clipboard automatically, you can paste it anywhere. The resulting file link, file size, and file name will be printed to the console and the file link will also be copied to your clipboard for easy sharing.
+
+The addon makes use of the popular libraries pyautogui and keyboard to handle screenshotting and hotkey functionality, as well as the requests library to interact with the API and the pyperclip library to manage the clipboard.
+
+This addon is a convenient and efficient solution for sharing screenshots, making it an ideal tool for anyone who frequently needs to share screenshots on Discord or other online platforms.
 
 
 <div align="center">
