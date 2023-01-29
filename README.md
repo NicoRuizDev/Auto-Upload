@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   
-  <h3 align="center">DiscordCDN</h3>
+  <h3 align="center">Auto-Upload</h3>
 
   <p align="center">
     A CDN which can be used to display embed images on Discord!
@@ -35,9 +35,9 @@
     <br />
     <a href="https://cdn.nicoruiz.dev">View Demo</a>
     ·
-    <a href="https://github.com/NicoRuizDev/DiscordCDN/issues">Report Bug</a>
+    <a href="https://github.com/NicoRuizDev/Auto-Upload/issues">Report Bug</a>
     ·
-    <a href="https://github.com/NicoRuizDev/DiscordCDN/issues">Request Feature</a>
+    <a href="https://github.com/NicoRuizDev/Auto-Upload/issues">Request Feature</a>
   </p>
 </div>
 
@@ -99,9 +99,9 @@ If you have a suggestion that would make this better, please fork the repo and c
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b NicoRuizDev/DiscordCDN`)
-3. Commit your Changes (`git commit -m 'Add some DiscordCDN'`)
-4. Push to the Branch (`git push origin NicoRuizDev/DiscordCDN`)
+2. Create your Feature Branch (`git checkout -b NicoRuizDev/Auto-Upload`)
+3. Commit your Changes (`git commit -m 'Add some Auto-Upload'`)
+4. Push to the Branch (`git push origin NicoRuizDev/Auto-Upload`)
 5. Open a Pull Request
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -120,7 +120,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/NicoRuizDev/DiscordCDN](https://github.com/NicoRuizDev/DiscordCDN)
+Project Link: [https://github.com/NicoRuizDev/Auto-Upload](https://github.com/NicoRuizDev/Auto-Upload)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -139,14 +139,14 @@ Project Link: [https://github.com/NicoRuizDev/DiscordCDN](https://github.com/Nic
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/NicoRuizDev/DiscordCDN.svg?style=for-the-badge
-[contributors-url]: https://github.com/NicoRuizDev/DiscordCDN/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/NicoRuizDev/DiscordCDN.svg?style=for-the-badge
-[forks-url]: https://github.com/NicoRuizDev/DiscordCDN/network/members
-[stars-shield]: https://img.shields.io/github/stars/NicoRuizDev/DiscordCDN.svg?style=for-the-badge
-[stars-url]: https://github.com/NicoRuizDev/DiscordCDN/stargazers
-[issues-shield]: https://img.shields.io/github/issues/NicoRuizDev/DiscordCDN.svg?style=for-the-badge
-[issues-url]: https://github.com/NicoRuizDev/DiscordCDN/issues
-[license-shield]: https://img.shields.io/github/license/NicoRuizDev/DiscordCDN.svg?style=for-the-badge
-[license-url]: https://github.com/NicoRuizDev/DiscordCDN/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/NicoRuizDev/Auto-Upload.svg?style=for-the-badge
+[contributors-url]: https://github.com/NicoRuizDev/Auto-Upload/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/NicoRuizDev/Auto-Upload.svg?style=for-the-badge
+[forks-url]: https://github.com/NicoRuizDev/Auto-Upload/network/members
+[stars-shield]: https://img.shields.io/github/stars/NicoRuizDev/Auto-Upload.svg?style=for-the-badge
+[stars-url]: https://github.com/NicoRuizDev/Auto-Upload/stargazers
+[issues-shield]: https://img.shields.io/github/issues/NicoRuizDev/Auto-Upload.svg?style=for-the-badge
+[issues-url]: https://github.com/NicoRuizDev/Auto-Upload/issues
+[license-shield]: https://img.shields.io/github/license/NicoRuizDev/Auto-Upload.svg?style=for-the-badge
+[license-url]: https://github.com/NicoRuizDev/Auto-Upload/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
