@@ -2,6 +2,8 @@
 <!--
 *** Hi
 --> 
+## Currently this doesn't works for new version of DiscordCDN.
+## We will update it when it is done.
 
 
 
